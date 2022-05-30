@@ -1,4 +1,4 @@
-# SevenChakraStones  -- Death is only the beginning --
+# SevenChakraStones  -- DEATH IS ONLY THE BEGINNING! --
 Game is no way near completion. Seven Chakra Stones was created for the GameDev.tv 2022 Game Jam.
 Trying to learn C# programming through the GameDev.tv course.
 First time doing a jam, first time putting the courses I have done together.
