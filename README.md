@@ -1,5 +1,5 @@
 # SevenChakraStones 
-Game is no way near completion. Seven Chakra Stones was created for the GameDev.tv 2022 Game Jam
+Game is no way near completion. Seven Chakra Stones was created for the GameDev.tv 2022 Game Jam.
 Trying to learn C# programming through the GameDev.tv course.
 First time doing a jam, first time putting the courses I have done together.
 Still have a long way to. Hoping it’s enough to be eligible for the free course.
